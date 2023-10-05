@@ -1,0 +1,4 @@
+spring:
+     message: hello world form testing 
+server:
+     port: 9092
